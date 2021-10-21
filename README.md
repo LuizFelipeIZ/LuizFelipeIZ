@@ -15,12 +15,6 @@
 
   ##
 
-  <a href="https://www.instagram.com/luizfelipe.v__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "iluizfeliope230@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  ##
-  <img align="left" alt="levi" width="200px" src="https://media.giphy.com/media/S0zHxjax3DbJm/giphy.gif?cid=ecf05e476vum07vih9dord7740229lxhdimkau0xfrihxfu2&rid=giphy.gif&ct=g">
-    
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
    
   # About me:
 - 🔭 I´m currently graduating from Inatel in Software Engineering

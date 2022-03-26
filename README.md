@@ -23,5 +23,8 @@
   - C#
   - Python
   - Arduino
+  - JAVA
+  - Android Studio
+  - React Native
 - 📫 How to reach me: iluizfelipe230@gmail.com
     

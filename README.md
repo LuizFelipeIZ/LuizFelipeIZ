@@ -7,9 +7,7 @@
   # Languages & Tools 💻
   
   <img align="left" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Unity" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> 
 
@@ -17,14 +15,12 @@
 
    
   # About me:
-- 🔭 I´m currently graduating from Inatel in Software Engineering
+- 🔭 I´m currently graduating from IF-MG in Agronomic Engineering
 - 😁 currently learning
   - C++ 
-  - C#
   - Python
   - Arduino
   - JAVA
   - Android Studio
-  - React Native
 - 📫 How to reach me: iluizfelipe230@gmail.com
     

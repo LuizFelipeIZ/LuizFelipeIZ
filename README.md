@@ -59,12 +59,6 @@ Uno o campo à tecnologia: uso **imagens de satélite, drones e Python** para tr
 - 🌐 **Smart Farm – IoT na Agricultura de Precisão** (IC FAPEMIG, 2023–2024): Scrum Master do time de IoT, conduzindo uma equipe de 6 alunos do ensino médio.
 - 🌳 **Serviços ambientais na bacia do Araçuaí-MG** (IC CNPq, 2024–2025): análise com dados do MapBiomas.
 
-## 🤝 Liderança
-
-- **GEGAM**: secretaria, RH e coordenação (2025–2026); hoje vice-coordenador
-- **GECAV** (Compostagem Animal e Vegetal): diretor de projetos
-- **Centro Acadêmico**: diretor de esportes
-
 ## 📈 GitHub Stats
 
 <p>

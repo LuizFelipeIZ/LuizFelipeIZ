@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/luiz-felipe-viana-dias/"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Felipe-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:iluizfelipe230@gmail.com"><img src="https://img.shields.io/badge/Email-iluizfelipe230%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="http://lattes.cnpq.br/7460639912861620"><img src="https://img.shields.io/badge/Currículo-Lattes-1F6FB2?style=flat&logo=academia&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Aberto%20a-estágios-2EA44F?style=flat"/>
